@@ -1,28 +1,35 @@
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Welcome+to+my+profile...;Fullstack+Developer;Code+%2B+Creativity+%2B+Anime;Kothzo" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=34&pause=1000&color=9333EA&center=true&vCenter=true&width=900&lines=Kothzo;Fullstack+Developer;Dark+Anime+Vibes;Code+Create+Repeat" />
 
-<img src="https://i.pinimg.com/originals/8f/1d/f6/8f1df6f0b8c9f0f8a7f53f4c6b0e63ff.gif" width="100%"/>
+<br>
+
+<img src="https://i.pinimg.com/736x/3d/14/13/3d14132773a3b265e76b2d01a7e645c3.jpg" width="100%" style="border-radius:20px;" />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=kothzo&label=Profile+Views&color=9333EA&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 👋 About Me
+# 🌌 About Me
+
+<img align="right" width="320" src="https://media.tenor.com/2uyENRmiUt0AAAAC/anime-girl.gif"/>
 
 ```yaml
 name: Kothzo
-focus: Web Development
+role: Fullstack Developer
+location: Brazil
 
-languages:
+main_languages:
   - Python
   - JavaScript
   - TypeScript
-  - HTML
-  - CSS
 
-currently_learning:
-  - React
-  - APIs
+interests:
   - UI/UX
+  - Anime
+  - Web Apps
+  - Modern Design
